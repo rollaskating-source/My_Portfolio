@@ -8,7 +8,7 @@ export const personalData = {
   phone: '+(614) 555-1234',
   whatsApp: '+(614) 555-5678',
   address: 'Sydney, Australia',
-  github: 'https://github.com/artigun00914-bizz',
+  github: 'https://github.com/rollaskating-source',
   facebook: 'https://www.facebook.com/',
   linkedIn: 'https://www.linkedin.com/',
   twitter: 'https://twitter.com/',
